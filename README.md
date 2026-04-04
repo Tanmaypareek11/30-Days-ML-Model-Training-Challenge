@@ -1,62 +1,39 @@
-# 🚀 30 Days of Machine Learning Challenge
+# 🚀 30 Days of Machine Learning
 
-## 📌 Overview
+Machine Learning | Daily Practice
 
-This repository contains my journey through a **30 Days of Machine Learning Challenge**, where I practice and implement different ML algorithms, concepts, and real-world projects daily.
-
----
-
-## 🎯 Goal
-
-* Build strong fundamentals in Machine Learning
-* Work on hands-on projects
-* Improve problem-solving and model-building skills
-* Prepare for internships and real-world applications
+This repository showcases my **30-day journey into Machine Learning**, where I implement and evaluate a new concept or model each day using a **different dataset** to gain diverse practical experience.
 
 ---
 
-## 📂 Repository Structure
+## 🎯 Objective
 
-```
-30-Days-ML/
-│
-├── Day-01/
-├── Day-02/
-├── Day-03/
-│   ...
-├── Day-30/
-│
-└── README.md
-```
+* Gain hands-on experience with ML algorithms
+* Work daily on new datasets to understand real-world variations
+* Improve model evaluation and tuning skills
+* Learn from experimentation and mistakes
+* Build a consistent learning routine
 
 ---
 
+## 🛠️ Tools & Libraries
+
+Python | Pandas | NumPy | Scikit-learn | Matplotlib | Seaborn
 
 ---
 
-## 📈 Key Learnings
+## 📅 Daily Progress
 
-* Importance of clean and well-processed data
-* Handling class imbalance in datasets
-* Choosing the right model based on problem
-* Avoiding data leakage
-* Balancing accuracy with real-world performance
-
+✅ Day 01 — Netflix dataset(Random_Forest_classifier = 75%)
 ---
 
-## 🛠️ Tech Stack
+## 🌟 Key Learnings
 
-* Python
-* Pandas
-* NumPy
-* Scikit-learn
-* Matplotlib / Seaborn
-
----
-
-
-## 🙌 Connect
-
-Feel free to explore, give feedback, or collaborate!
+* Model performance depends heavily on data quality
+* Different datasets require different approaches
+* Accuracy alone is not enough for evaluation
+* Handling imbalance improves real-world performance
+* Hyperparameter tuning plays a crucial role
+* Consistent daily practice strengthens understanding
 
 ---
