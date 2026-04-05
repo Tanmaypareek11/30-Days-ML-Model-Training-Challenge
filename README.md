@@ -25,7 +25,6 @@ Python | Pandas | NumPy | Scikit-learn | Matplotlib | Seaborn
 ## 📅 Daily Progress
 
 ✅ Day 01 — Netflix dataset(Random_Forest_classifier = 75%)
-
 ✅ Day 02 — IPL dataset(Linear_Regressor,Random_Forest_Regressor,XGBoost)
 ---
 
