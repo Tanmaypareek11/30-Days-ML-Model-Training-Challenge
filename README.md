@@ -26,6 +26,7 @@ Python | Pandas | NumPy | Scikit-learn | Matplotlib | Seaborn
 
 - ✅ Day 01 — Netflix Dataset (Random Forest Classifier: 75% Accuracy)  
 - ✅ Day 02 — IPL Dataset (Linear Regression, Random Forest Regressor, XGBoost)
+- ✅ Day 02 — Student_exam_performance Dataset (Linear Regression, Lasso, Ridge)
 ---
 
 ## 🌟 Key Learnings
