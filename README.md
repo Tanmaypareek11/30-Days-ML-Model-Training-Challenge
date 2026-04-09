@@ -28,6 +28,8 @@ Python | Pandas | NumPy | Scikit-learn | Matplotlib | Seaborn
 - ✅ Day 02 — IPL Dataset (Linear Regression, Random Forest Regressor, XGBoost)
 - ✅ Day 03 — Student_exam_performance Dataset (Linear Regression, Lasso, Ridge)
 - ✅ Day 04 — Penguins Size Dataset (LogisticRegression, RandomForestClassifier,DecisionTreeClassifier)
+- ✅ Day 05 — Car Specifications Dataset (LinearRegression,XGBoost)
+
 ---
 
 ## 🌟 Key Learnings
