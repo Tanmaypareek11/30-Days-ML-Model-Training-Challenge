@@ -29,6 +29,7 @@ Python | Pandas | NumPy | Scikit-learn | Matplotlib | Seaborn
 - ✅ Day 03 — Student_exam_performance Dataset (Linear Regression, Lasso, Ridge)
 - ✅ Day 04 — Penguins Size Dataset (LogisticRegression, RandomForestClassifier,DecisionTreeClassifier)
 - ✅ Day 05 — Car Specifications Dataset (LinearRegression,XGBoost)
+- ✅ Day 06 — Walt Disney (DIS) Stock Market Dataset (LinearRegression,Random Forest Regressor)
 
 ---
 
