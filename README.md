@@ -30,7 +30,8 @@ Python | Pandas | NumPy | Scikit-learn | Matplotlib | Seaborn
 - ✅ Day 04 — Penguins Size Dataset (LogisticRegression, RandomForestClassifier,DecisionTreeClassifier)
 - ✅ Day 05 — Car Specifications Dataset (LinearRegression,XGBoost)
 - ✅ Day 06 — Walt Disney (DIS) Stock Market Dataset (LinearRegression,Random Forest Regressor)
-
+- ✅ Day 07 — Loan Approval Dataset (LogisticRegression,KNN,NaiveBays)
+- 
 ---
 
 ## 🌟 Key Learnings
